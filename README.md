@@ -12,7 +12,7 @@ Dillon Michels
 ![Project Screenshot](images/github_tutorial_pictures.png)
 
 ### ✅ Task List
-- [ ] Task 1: Complete Git Tutorial
+- [x] Task 1: Complete Git Tutorial
 - [x] Task 2: Add Screenshots to README.md
-- [ ] Task 3: Modify `.html` File
-- [ ] Task 4: Merge Changes
+- [x] Task 3: Modify `.html` File
+- [x] Task 4: Merge Changes

@@ -9,7 +9,7 @@ This is a sample project repo for HW2!
 ![Project Screenshot](images/ss1.png)
 
 Dillon Michels
-![Project Screenshot](images\github_tutorial_pictures.png)
+![Project Screenshot](images/github_tutorial_pictures.png)
 
 ### ✅ Task List
 - [ ] Task 1: Complete Git Tutorial

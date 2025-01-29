@@ -18,3 +18,7 @@ This is a sample project repo for HW2!
 - [x] Task 2: Add Screenshots to README.md
 - [x] Task 3: Modify `.html` File
 - [ ] Task 4: Merge Changes
+
+## Screenshots of Ali Farahat
+![Git Tutorial Exercises](images/Ali-Picture1.png) 
+![Git Tutorial Exercises](images/Ali-Picture2.png)

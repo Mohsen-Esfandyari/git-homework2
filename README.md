@@ -11,7 +11,7 @@ This is a sample project repo for HW2!
 ### ✅ Task List
 - [x] Task 1: Complete Git Tutorial
 - [x] Task 2: Add Screenshots to README.md
-- [ ] Task 3: Modify `.html` File
+- [x] Task 3: Modify `.html` File
 - [ ] Task 4: Merge Changes
 
 ## Screenshots of Ali Farahat
